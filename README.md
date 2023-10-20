@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://github.com/ahmadhaj-rick">
-    <img src="https://c4.wallpaperflare.com/wallpaper/632/34/549/technology-monitor-alpha-coders-binary-wallpaper-preview.jpg" alt="MasterHead">
-  </a>
-</p>
-
 <h1 align="center">Hi 👋, I'm Ahmad (Rick)</h1>
 <h3 align="center">Computer science student specializing in network security.</h3>
 
