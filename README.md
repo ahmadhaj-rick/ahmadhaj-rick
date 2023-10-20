@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://github.com/ahmadhaj-rick">
+    <img src="https://raw.githubusercontent.com/ahmadhaj-rick/ahmadhaj-rick/main/bscs-hero-1200x500.png" alt="MasterHead" width="1080" height="300">
+  </a>
+</p>
+
+
+
 <h1 align="center">Hi 👋, I'm Ahmad (Rick)</h1>
 <h3 align="center">Computer science student specializing in network security.</h3>
 
